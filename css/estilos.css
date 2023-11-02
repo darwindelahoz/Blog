@@ -5,7 +5,7 @@ font-family: cursive;
 
 #container {
     align-items: center;
-    border: solid;
+    border: double;
     border-color: blue;
 }
 
