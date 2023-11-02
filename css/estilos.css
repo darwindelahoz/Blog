@@ -8,3 +8,8 @@ font-family: cursive;
     border: solid;
     border-color: blue;
 }
+
+#cabecera {
+    background-color: blue;
+    text-align: left;
+}
