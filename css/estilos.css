@@ -1,15 +1,15 @@
 body {
 text-align: center;
-font-family: cursive;
+font-family: arial;
 }
 
 #container {
     align-items: center;
     border: double;
-    border-color: blue;
+    border-color: rgb(45, 45, 102);
 }
 
 #cabecera {
-    background-color: blue;
+    background-color: rgb(55, 55, 121);
     text-align: left;
 }
