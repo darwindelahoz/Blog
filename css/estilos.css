@@ -4,14 +4,26 @@ font-family: arial;
 }
 
 #container {
-    align-items: center;
-    border: double;
-    border-color: rgb(45, 45, 102);
 }
 
 #cabecera {
+    display: flex;
     font-size: 32px;
     background-color: rgb(55, 55, 121);
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 12px;
+}
+
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
